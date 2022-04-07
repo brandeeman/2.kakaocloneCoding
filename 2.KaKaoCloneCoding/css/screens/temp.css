@@ -1,0 +1,13 @@
+.reply .reply__column:first-child,
+.reply .fs-smile-wink,
+.reply button {
+  transition: opacity 0.3s ease-in-out;
+}
+
+
+
+
+
+.reply:focus-within {
+  transform: translate(80px);
+}
